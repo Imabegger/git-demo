@@ -18,4 +18,4 @@ hello my first git!
 hello my first git!
 hello my first git! master-branch
 hello my first git!
-hello my first git! 
+hello my first git! hot-fix branch
